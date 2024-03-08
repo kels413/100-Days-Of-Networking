@@ -88,3 +88,5 @@ internet == lan -> man -> wan
 NETWORK TOPOPLOGY.
     BUS
     RING
+    STAR
+    TREE
