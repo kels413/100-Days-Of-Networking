@@ -51,3 +51,7 @@ session layer: servers issue.
 devices in each layer of the osi model.
 Layer 1:
  physical layer: hub and modem
+Layer 2:
+    Datalink layer: switches and Wireless access point.
+Layer 3:
+    network layer: 
