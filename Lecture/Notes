@@ -66,3 +66,4 @@ what is www.
 
 port:
     port from 0 - 1023 are reserved port
+    port from 1024 - 49152 are also reserved for application.
