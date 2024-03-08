@@ -22,7 +22,7 @@ what are Routers ??
 Routers are devices that helps to recieve and send data between computer networks.
 
 
-OSI MODEL.
+OSI MODEL. (open system interconnection model)
 
 all
 people
@@ -31,3 +31,22 @@ to
 need
 data
 processing
+
+application layer
+presentation layer
+session layer
+transport layer
+network layer
+datalink layer
+physical layer
+
+
+EXPLANATION:
+
+physical layer: visible cables
+Datalink layer: switches
+network layer: Routers
+session layer: servers issue.
+
+
+
