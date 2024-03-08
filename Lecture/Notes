@@ -48,5 +48,6 @@ Datalink layer: switches
 network layer: Routers
 session layer: servers issue.
 
-
-
+devices in each layer of the osi model.
+Layer 1:
+ physical layer: hub and modem
