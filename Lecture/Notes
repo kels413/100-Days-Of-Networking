@@ -62,3 +62,7 @@ what is www.
 
     DHCP
     NAT
+
+
+port:
+    port from 0 - 1023 are reserved port
