@@ -106,3 +106,8 @@ APPLICATION LAYER:
     it helps our computer program like web browsers, email clients, curl command to talk to the internet.
     it helps provide network services to the end users or application.
 
+ PRESENTATION LAYER:
+   it is responsible for translating data from the application layer, into formats that computers
+   transmitting data over a network can easily understand, it is responsible for encryption, compressing, and formmating. 
+   in general it makes sure that data transferred over the net is being understood by the sender and reciever.
+
