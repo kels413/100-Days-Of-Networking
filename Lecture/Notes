@@ -111,3 +111,5 @@ APPLICATION LAYER:
    transmitting data over a network can easily understand, it is responsible for encryption, compressing, and formmating. 
    in general it makes sure that data transferred over the net is being understood by the sender and reciever.
 
+SESSION LAYER:
+    Its responsible for establishing, maintaining and terminating connections, called session between client and server.
