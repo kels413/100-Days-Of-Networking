@@ -101,3 +101,8 @@ OSI MODEL.
 5. NETWORK LAYER
 6. DATALINK LAYER.
 7. PHYSICAL LAYER.
+
+APPLICATION LAYER:
+    its helps our computers program like web browsers, email cliens, curl command to talk to the internet.
+    it helps provide network services to end users or application.
+
