@@ -67,3 +67,15 @@ what is www.
 port:
     port from 0 - 1023 are reserved port
     port from 1024 - 49152 are also reserved for application.
+
+lan
+man
+wan 
+wide area network
+    sonet.
+    frame relay.
+
+internet == lan -> man -> wan
+    its basically that the internet is the collection of the three types of network.
+    all the lan are connected to each other using man, and all the man are connected to each
+    other using wan. 
