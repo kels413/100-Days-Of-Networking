@@ -103,6 +103,6 @@ OSI MODEL.
 7. PHYSICAL LAYER.
 
 APPLICATION LAYER:
-    its helps our computers program like web browsers, email cliens, curl command to talk to the internet.
-    it helps provide network services to end users or application.
+    it helps our computer program like web browsers, email clients, curl command to talk to the internet.
+    it helps provide network services to the end users or application.
 
