@@ -113,3 +113,7 @@ APPLICATION LAYER:
 
 SESSION LAYER:
     Its responsible for establishing, maintaining and terminating connections, called session between client and server.
+
+
+Transport Layer:
+    The Transport Layer controls traffic network between host and end system to guarantee full data flows. it makes use of protocols like TCP, UDP, DCCP, SCTP.g
