@@ -120,4 +120,7 @@ Transport Layer:
 
 
 Network layer:
-    the Network layer is responsible for breaking down data segments recieved from the Transport layer into packets and reassembling them in the end system, it is also responsible for routing, meaning it is responsible for finding the best path to transmit data packets.
+    The Network layer is responsible for breaking down data segments recieved from the Transport layer into packets and reassembling them in the end system, it is also responsible for routing, meaning it is responsible for finding the best path to transmit data packets.
+
+Datalink Layer:
+    The Datalink layer is responsible for the reliable transmission of data over a physical link.
