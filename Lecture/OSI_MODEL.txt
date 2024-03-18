@@ -32,4 +32,5 @@ the APPLICATION layer of the osi model is the layer that provides an interface f
 
 functions of the application layer.
 1. it provides an interface for end user to control a remote host.
-2 . it provides an interface for softwares and application
+2 . it provides an interface for softwares and application to request and resources over the net.
+3. 
