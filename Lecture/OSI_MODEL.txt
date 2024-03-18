@@ -30,3 +30,5 @@ what is APPLICATION layer ?
 
 the APPLICATION layer of the osi model is the layer that provides an interface for softwares and application to request and send resources over the net.
 
+functions of the application layer.
+1. 
