@@ -25,3 +25,7 @@ SESSION, PRESENTATION, APPLICATION LAYER CONSISTS OF EVERYTHING BOUT OUR DATA.
 
 
 Now let's talk bout the individual layers.
+
+what is APPLICATION layer ?
+
+the APPLICATION layer of the osi model is the 
