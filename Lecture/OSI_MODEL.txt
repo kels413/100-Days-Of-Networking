@@ -34,4 +34,4 @@ functions of the application layer.
 1. it provides an interface for end user to control a remote host.
 2 . it provides an interface for softwares and application to request and resources over the net.
 3. it provides the protocol for webbrowsers.
-4. it provides data in presentable format for the end users, unlike the 
+4. it provides data in presentable format for the end users, unlike the 0, 1.
